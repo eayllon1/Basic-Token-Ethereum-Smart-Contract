@@ -1,4 +1,4 @@
-# Basic Currency Ethereum Smart Contract
+# Basic Token Ethereum Smart Contract
 
 ## 1 | Description
 
